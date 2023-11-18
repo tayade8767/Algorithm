@@ -2,7 +2,7 @@
 #include<algorithm>
 using namespace std;  
 
-int BS(int l,int mid,int r,int search,vector<int>B)
+int BS(int l,int mid,int r,int search,vector<int>B)                         //  this code for the Binary search in the array
 {
     mid=(l+r)/2;
     if(B[mid] == search)
