@@ -1,7 +1,7 @@
 
 #include<iostream>
 using namespace std;
-class RecursiveBinarysearch                                     //  it is Resursive Binary serach
+class RecursiveBinarysearch                                     //  it is Resursive Binary serach aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 {
     public:
     int RBS(int a[],int left,int right,int key)
